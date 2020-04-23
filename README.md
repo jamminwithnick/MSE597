@@ -1,3 +1,3 @@
 # MSE597
 
-Simple script to try CI/CD pipeline in Azure and Docker
+Simple script to try CI/CD pipeline in Jenkinsand Docker
